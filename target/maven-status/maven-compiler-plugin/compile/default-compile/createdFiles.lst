@@ -1,0 +1,16 @@
+com\concesionaria\concesionaria\logica\Automovil.class
+com\concesionaria\concesionaria\persistencia\ControladoraPersistencia.class
+com\concesionaria\concesionaria\persistencia\exceptions\PreexistingEntityException.class
+com\concesionaria\concesionaria\igu\Principal$1.class
+com\concesionaria\concesionaria\persistencia\AutomovilJpaController.class
+com\concesionaria\concesionaria\igu\AltaAutomovil$1.class
+com\concesionaria\concesionaria\igu\Principal$2.class
+com\concesionaria\concesionaria\logica\Automovil_.class
+com\concesionaria\concesionaria\igu\AltaAutomovil.class
+com\concesionaria\concesionaria\igu\Principal.class
+com\concesionaria\concesionaria\igu\AltaAutomovil$3.class
+com\concesionaria\concesionaria\persistencia\exceptions\NonexistentEntityException.class
+com\concesionaria\concesionaria\igu\AltaAutomovil$2.class
+com\concesionaria\concesionaria\logica\Controladora.class
+com\concesionaria\concesionaria\persistencia\exceptions\IllegalOrphanException.class
+com\concesionaria\concesionaria\Automovil.class

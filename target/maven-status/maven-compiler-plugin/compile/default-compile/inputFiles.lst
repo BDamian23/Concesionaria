@@ -1,0 +1,10 @@
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\persistencia\AutomovilJpaController.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\Automovil.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\igu\AltaAutomovil.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\igu\Principal.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\persistencia\ControladoraPersistencia.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\persistencia\exceptions\IllegalOrphanException.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\persistencia\exceptions\PreexistingEntityException.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\logica\Automovil.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\logica\Controladora.java
+H:\Proyectos_Java\Concesionaria\src\main\java\com\concesionaria\concesionaria\persistencia\exceptions\NonexistentEntityException.java
